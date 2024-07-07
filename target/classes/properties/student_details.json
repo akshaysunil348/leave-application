@@ -1,0 +1,21 @@
+[
+  {
+    title: 'Student Details',
+    properties: [
+      {
+        name: 'full_name',
+        label: 'Full Name',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'roll',
+        label: 'Roll No',
+        type: 'textfield',
+        size: '60',
+        required: 'False'
+      }
+    ]
+  }
+]

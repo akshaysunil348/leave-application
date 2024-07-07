@@ -1,0 +1,49 @@
+[
+  {
+    title: 'Leave Data',
+    properties: [
+      {
+        name: 'username',
+        label: 'Username',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'approver',
+        label: 'Approver',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'days',
+        label: 'No of Days',
+        type: 'number',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'department',
+        label: 'Department',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'startDate',
+        label: 'Start Date',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      },
+      {
+        name: 'endDate',
+        label: 'End Date',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      }
+    ]
+  }
+]

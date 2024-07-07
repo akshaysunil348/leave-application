@@ -1,0 +1,14 @@
+[
+  {
+    title: 'Leave Data',
+    properties: [
+      {
+        name: 'tableName',
+        label: 'Table Name',
+        type: 'textfield',
+        size: '60',
+        required: 'True'
+      }
+    ]
+  }
+]

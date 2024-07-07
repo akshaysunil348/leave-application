@@ -1,0 +1,11 @@
+org\joget\sample\StoreBinder.class
+org\joget\sample\QueryHandler.class
+org\joget\sample\Activator.class
+org\joget\sample\DataListBinder.class
+org\joget\sample\JDBCBinder.class
+org\joget\sample\UpdateResult.class
+org\joget\sample\SampleWebRequest.class
+org\joget\sample\ConditionDataListBinder.class
+org\joget\sample\SamplePluginTool.class
+org\joget\sample\LeaveRequestAcceptedPlugin.class
+org\joget\sample\LeaveApplicationWebPlugin.class
